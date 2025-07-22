@@ -39,8 +39,6 @@ A secure platform for content sharing with:
 **Live Demo:** [mvp(my web site for test and development)](https://bigstack.ir/)
 
 
-(این پروژه pinned شده – چک کنید و ستاره بدید! ⭐)
-
 ### Other Projects deployed
 
 *   [Dental site](https://mohabatmousaee.ir/) – Short description.
