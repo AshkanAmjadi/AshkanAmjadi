@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Ashkan Amjadi!
 
-Backend developer with a passion for building secure web applications. Specializing in Laravel 11, PHP, and web security. Currently working on innovative projects like my MVP content platform. Let’s collaborate on open-source! 🚀
+Backend developer with a passion for building secure web applications. Specializing in Laravel 12, PHP, and web security. Currently working on innovative projects like my MVP content platform. Let’s collaborate on open-source! 🚀
 
 ## 📝 About Me
 
