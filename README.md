@@ -1,4 +1,4 @@
-
+![my git hub head image](./img/head.png)
 
 # 👋 Hi, I’m Ashkan Amjadi!
 
