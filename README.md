@@ -1,21 +1,39 @@
 ![my git hub head image](./img/head.png)
 
-# 👋 Hi, I’m Ashkan Amjadi!
 
-Backend developer with a passion for building secure web applications. Specializing in Laravel 12, PHP, and web security. Currently working on innovative projects like my MVP content platform. Let’s collaborate on open-source! 🚀
+
+
+# 👋 Let me introduce myself: Ashkan
+
+<img style="max-width:200px" src="img/frontend/frontend.svg">
+
+<div>
+
+<img style="max-width:100px" src="img/frontend/html.svg">
+<img style="max-width:100px" src="img/frontend/css.svg">
+<img style="max-width:100px" src="img/frontend/tailwind.svg">
+<img style="max-width:100px" src="img/frontend/js.svg">
+<img style="max-width:100px" src="img/frontend/react.svg">
+<img style="max-width:100px" src="img/frontend/vue.svg">
+<img style="max-width:100px" src="img/frontend/next.svg">
+
+
+</div>
+
+
+**Full‑stack developer** committed to delivering secure, scalable, and user‑friendly web applications. Skilled in **Laravel 12**, **PHP**, modern frontend technologies, and database management. Adept at building clean, maintainable codebases and improving application performance. Open to collaboration on challenging projects and dedicated to delivering value‑driven solutions. 🚀
 
 ## 📝 About Me
 
-I’m a freelance developer based in Tehran, Iran. With experience in creating high-security systems, I focus on features like token-rotation for authentication, Google/Phone login, and interactive Q&A modules. My goal is to build scalable apps that prioritize user privacy and performance. In my free time, I contribute to Laravel communities and explore new tech stacks.
+With a strong focus on web security and development best practices, I design systems that balance functionality, performance, and maintainability. My workflow emphasizes clear communication, efficient problem‑solving, and consistent delivery. I’m passionate about learning new technologies and contributing to high‑impact projects.
 
 ## 💻 Skills
 
-*   **Backend:** Laravel , PHP
-*   **frontend:** html , css , js , tailwind 
-*   **Security:** Token management, OAuth (Google/Phone), Encryption
-*   **Databases:** MySQL, Redis,mariadb
-*   **Other:** Git, CI/CD,laragon local server
-*   **Tools:** VS Code, phpstorm
+*   **Backend:** Laravel 12, PHP
+*   **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+*   **Security:** Authentication workflows, OAuth, Data encryption
+*   **Databases:** MySQL, MariaDB
+*   **Tools:** Git, CI/CD pipelines, Laragon local server
 
 ## 🚀 Featured Projects
 
