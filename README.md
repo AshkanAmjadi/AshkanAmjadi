@@ -68,7 +68,5 @@ A secure platform for content sharing with:
 
 Thanks for visiting! If you have ideas for my MVP or want to collaborate, open an issue or DM me. 😊
 
-- - -
 
-Generated with ❤️ using GitHub README tools.
 
