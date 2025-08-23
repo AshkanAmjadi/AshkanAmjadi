@@ -5,17 +5,17 @@
 
 # 👋 Let me introduce myself: Ashkan
 
-<img style="max-width:200px" src="img/frontend/frontend.svg">
+<img style="max-width:200px" width="200px" src="img/frontend/frontend.svg">
 
 <div>
 
-<img style="max-width:100px" src="img/frontend/html.svg">
-<img style="max-width:100px" src="img/frontend/css.svg">
-<img style="max-width:100px" src="img/frontend/tailwind.svg">
-<img style="max-width:100px" src="img/frontend/js.svg">
-<img style="max-width:100px" src="img/frontend/react.svg">
-<img style="max-width:100px" src="img/frontend/vue.svg">
-<img style="max-width:100px" src="img/frontend/next.svg">
+<img style="max-width:100px" width="100px" src="img/frontend/html.svg">
+<img style="max-width:100px" width="100px" src="img/frontend/css.svg">
+<img style="max-width:100px" width="100px" src="img/frontend/tailwind.svg">
+<img style="max-width:100px" width="100px" src="img/frontend/js.svg">
+<img style="max-width:100px" width="100px" src="img/frontend/react.svg">
+<img style="max-width:100px" width="100px" src="img/frontend/vue.svg">
+<img style="max-width:100px" width="100px" src="img/frontend/next.svg">
 
 
 </div>
