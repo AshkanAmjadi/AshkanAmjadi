@@ -19,6 +19,17 @@
 
 
 </div>
+<img style="max-width:200px" width="200px" src="img/backend/backend.svg">
+
+<div>
+
+<img style="max-width:100px" width="100px" src="img/backend/php.svg">
+<img style="max-width:100px" width="100px" src="img/backend/laravel.svg">
+<img style="max-width:100px" width="100px" src="img/backend/node.svg">
+<img style="max-width:100px" width="100px" src="img/backend/express.svg">
+
+
+</div>
 
 
 **Full‑stack developer** committed to delivering secure, scalable, and user‑friendly web applications. Skilled in **Laravel 12**, **PHP**, modern frontend technologies, and database management. Adept at building clean, maintainable codebases and improving application performance. Open to collaboration on challenging projects and dedicated to delivering value‑driven solutions. 🚀
