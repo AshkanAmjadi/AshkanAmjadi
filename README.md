@@ -14,6 +14,7 @@
 <img style="max-width:100px" width="100px" src="img/frontend/tailwind.svg">
 <img style="max-width:100px" width="100px" src="img/frontend/js.svg">
 <img style="max-width:100px" width="100px" src="img/frontend/react.svg">
+<img style="max-width:100px" width="100px" src="img/frontend/astro.svg">
 <img style="max-width:100px" width="100px" src="img/frontend/vue.svg">
 <img style="max-width:100px" width="100px" src="img/frontend/next.svg">
 
